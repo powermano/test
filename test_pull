@@ -2,6 +2,6 @@ for test git pull
 
 
 when you add something or fix some issues in the github(cloud),you can cd into you local dictionary
-and use command: git pull   to get the changes in the github(cloud)
+and use command: git pull   to get the changes in the github(cloud).
 
 
